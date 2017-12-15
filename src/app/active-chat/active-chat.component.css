@@ -1,0 +1,5 @@
+.chatnav {
+    background-color: gainsboro;
+    height: 60vh;
+    overflow: scroll;
+  }
